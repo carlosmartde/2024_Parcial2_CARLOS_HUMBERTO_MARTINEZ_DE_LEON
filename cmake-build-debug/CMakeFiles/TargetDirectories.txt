@@ -1,0 +1,3 @@
+C:/Users/carlo/CLionProjects/2024_Parcial2_CARLOS_HUMBERTO_MARTINEZ_DE_LEON/cmake-build-debug/CMakeFiles/2024_Parcial2_CARLOS_HUMBERTO_MARTINEZ_DE_LEON.dir
+C:/Users/carlo/CLionProjects/2024_Parcial2_CARLOS_HUMBERTO_MARTINEZ_DE_LEON/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/CLionProjects/2024_Parcial2_CARLOS_HUMBERTO_MARTINEZ_DE_LEON/cmake-build-debug/CMakeFiles/rebuild_cache.dir
